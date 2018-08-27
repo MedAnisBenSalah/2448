@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "456644577893",
+    "firebase_url": "https://api-project-79823377.firebaseio.com",
+    "project_id": "api-project-79823377",
+    "storage_bucket": "api-project-79823377.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456644577893:android:1aa76cff6d929b26",
+        "android_client_info": {
+          "package_name": "com.ormisiclapps.tffe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456644577893-g7gfmecpu88lbvlkh8suepsf2hmflhn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOtl_eBqOhQ9zOT3KXjupNyc-5Jo7DVHA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456644577893-g7gfmecpu88lbvlkh8suepsf2hmflhn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
